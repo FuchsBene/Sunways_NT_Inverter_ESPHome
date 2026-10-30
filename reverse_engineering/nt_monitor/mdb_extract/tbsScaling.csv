@@ -1,0 +1,5 @@
+idScaling,idSeries,dblUDCGradient,dblUDCOffset,dblUACGradient,dblUACOffset,dblIDCGradient,dblIDCOffset,dblIACGradient,dblIACOffset,dblTEMPGradient,dblTEMPOffset,dblSOLARGradient,dblSOLAROffset
+1,2,2.8,200,1,100,0.08,0,0.12,0,1,-40,6,0
+3,10,2.8,100,1,100,0.08,0,0.12,0,1,-40,6,0
+4,26,2.8,100,1,100,0.08,0,0.12,0,1,-40,6,0
+5,50,2.8,100,1,100,0.08,0,0.12,0,1,-40,6,0

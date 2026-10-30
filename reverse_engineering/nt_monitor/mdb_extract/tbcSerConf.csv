@@ -1,0 +1,2 @@
+idSerConf,strName,strDesc,intBaudRate,bParity,intBits,intStopBits,idHandshake
+3,"COM1",,9600,0,8,1,1
